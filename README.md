@@ -1,5 +1,5 @@
 # DIALLO-Abdoulaye-Serge-AfriTalent
-# AfriTalent 🚀
+# AfriTalent 
 
 **Plateforme fictive de mise en relation entre freelances tech africains et entreprises.**
 
