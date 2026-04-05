@@ -675,3 +675,12 @@ blockquote {
   .temoignage-card { padding: 24px; }
   blockquote { font-size: 0.95rem; }
 }
+/* Photos des freelances */
+.freelance-avatar img {
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid var(--couleur-primaire);
+  margin-bottom: 12px;
+}
